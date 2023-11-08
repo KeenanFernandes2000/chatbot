@@ -70,7 +70,7 @@ Follow these steps to set up the Chatbot Server:
 
 8. You should see this webpage
 
-   ![View of natural rock landscape formations making a valley ending in a road crossing through with a blue sky.](./screenshots/Chatbot%20Page.png)
+   ![Chatbot webpage](./screenshots/Chatbot%20Page.png)
 
 9. You can assign a chatbot role under "Current AI Role", to maintaine the role do not change the field, leaving the role empty the chatbot will assume a default role
 
